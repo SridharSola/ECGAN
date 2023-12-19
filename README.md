@@ -11,7 +11,7 @@ approach leverages both the binary segmentation map of the
 mask and an expression label to generate high-quality images. To train our ECGAN in a supervised manner, we synthesize masked images using the RAFDB dataset to create
 non-masked-masked pairs of images for training. We evaluate of our approach on the RAFDB test set, demonstrating
 its effectiveness in generating realistic images that convincingly belong to the given expression class. This is further
-highlighted by comparing it to a baseline model and a stateof-the-art approach without expression-input. 
+highlighted by comparing it to a baseline model and a state of-the-art approach without expression-input. 
 
 The starter code for our conditioned GAN (vanilla UNet, loss, train, and test functions) are taken from [this project](https://github.com/daviddirethucus/Face-Mask_Inpainting.git).
 
