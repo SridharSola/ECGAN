@@ -3,8 +3,7 @@
 # ECGAN
 This is the repository for our work 'Unmaksing Your Expression: Expression-Conditioned GAN for Masked Face Inpainting' presented at the 5th Workshop on Affective Behaviour Analysis in the Wild part of CVPR2023 Workshops. The paper is available [here](https://openaccess.thecvf.com/content/CVPR2023W/ABAW/papers/Sola_Unmasking_Your_Expression_Expression-Conditioned_GAN_for_Masked_Face_Inpainting_CVPRW_2023_paper.pdf). Alternatively, you can watch [this](https://drive.google.com/file/d/1S_q8ZUrGz617OED72Pveeem67_-BndtD/view?usp=sharing) short video presentation. To view the code in a notebook, check out this [Colab file](https://colab.research.google.com/drive/1zghk01Dy1vlGpBIGRIfKDctpMq9NLio8#scrollTo=BcO7vrKsE54G).
 
-## Abstract
-As face masks continue to be a part of our daily lives,
+**Abstract.** As face masks continue to be a part of our daily lives,
 the challenge of reconstructing occluded faces remains relevant. While several approaches have been proposed for removing masks from neutral facial images, few have explored
 the use of facial expressions as a dominant feature for reconstruction of expressive faces. To address this gap, we
 propose an expression-conditioned GAN (ECGAN) for reconstructing masked faces with a specified expression. Our
